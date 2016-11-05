@@ -38,6 +38,8 @@ job
         'JWT_EXPIRATION_DELTA': datetime.timedelta(days=14)
     }
 
+    python manage.py startapp authentication
+
 install lib
 ===========
     pip install djangorestframework
