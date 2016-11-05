@@ -1,0 +1,24 @@
+{
+  "name": "django_angular_token_auth",
+  "homepage": "https://github.com/NickTaporuk/django_rest_jwt",
+  "authors": [
+    "Nicholay Kuropatkin <nictaporuk@yandex.ru>"
+  ],
+  "description": "spa with django_rest and jwt token",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
